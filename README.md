@@ -8,7 +8,7 @@
 
 #
 
-<p align="left">Meu nome é Alex Ricardo, Tenho 19 anos sou
+<p align="left">Meu nome é Alex Ricardo, Tenho 19 anos, sou
 estudante de ciências da Computação na UCDB em Campo Grande-MS.
 
 #
